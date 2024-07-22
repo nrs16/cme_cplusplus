@@ -1,0 +1,4 @@
+- clone the project
+- go to project directory
+- run: g++ *.cpp -o main 
+- run: ./main
